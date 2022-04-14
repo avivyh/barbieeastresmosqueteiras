@@ -1,0 +1,36 @@
+body{
+    /**/
+    /*Comentários em css*/
+    /*Alterando cor de fundo*/
+    background-color: pink;
+    /*Alterando fonte*/
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+/*alterando h1*/
+h1{
+    /*mudando cor da fonte*/
+    color: deeppink;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    /* Centralizando texto*/
+    text-align: center;
+}
+h2{
+    text-indent: 10px;
+    color: hotpink;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+p{  
+    text-indent: 10px;
+    color: hotpink;  
+    text-align: center; 
+}
+h6{
+    color: deeppink;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+img{
+    width: 500px;
+    align-items: center;
+}

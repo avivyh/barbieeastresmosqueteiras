@@ -1,0 +1,33 @@
+body{
+    /**/
+    /*Comentários em css*/
+    /*Alterando cor de fundo*/
+    background-color:lightgray;
+    /*Alterando fonte*/
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h1{
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+h2{
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+h4{
+    color: rgba(31, 31, 31, 0.974);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    /*alterando borda. padding é a margem*/
+    padding:210px; margin: top 10px; margin-bottom:10px;
+}
+img{
+    width: 800px;
+}
+h5{
+    color: rgba(201, 11, 17, 0.547);
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}

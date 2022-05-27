@@ -1,3 +1,2 @@
-# barbieeastresmosqueteiras
-Relatando a sinopse do filme Barbie e as Três Mosqueteiras.
-Brincando com HTML e CSS.
+  Created by avivyh on 14/04/22.
+  Copyright © 2022 avivyh. All rights reserved.
